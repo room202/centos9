@@ -467,7 +467,7 @@ MariaDBのrootユーザーのパスワードを入力してください。
 ### ユーザーの追加
 
 ```sql
-CREATE USER 'lightbox'@'%' IDENTIFIED BY 'password';
+CREATE USER 'lightbox'@'%' IDENTIFIED BY 'trustno1';
 ```
 
 ### 特権の設定と反映
